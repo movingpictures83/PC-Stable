@@ -1,0 +1,2 @@
+Prefix plugins/PCStable/example
+Plugin PCStable inputfile gmG.csv outputfile causal.csv
