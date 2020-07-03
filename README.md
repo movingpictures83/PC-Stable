@@ -1,8 +1,9 @@
-# PC-Stable
+# PCStable
 # Language: R
 # Input: CSV
 # Output: CSV
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: pcalg_2.6.10, igraph_1.2.5
 
 PluMA plugin that runs the PC-Stable algorithm for causal relations (Colombo and Matthuis, 2014).
 
