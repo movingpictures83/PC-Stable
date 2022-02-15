@@ -1,2 +1,3 @@
 Prefix plugins/PCStable/example
-Plugin PCStable inputfile gmG.csv outputfile causal.csv
+Plugin PCStable inputfile input.csv outputfile pcstable.rds
+#Plugin PCStable inputfile gmG.csv outputfile causal.csv
